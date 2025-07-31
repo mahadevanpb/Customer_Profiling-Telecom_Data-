@@ -19,6 +19,9 @@ This project provides a Python-based solution for profiling telecommunications c
 
 - Tier 4 Priority Marketing + Incentives
 
+
+### Project from Foresight BI
+
 Output: Generates a comprehensive profile for each customer, including their final score percentage and assigned tier.
 
 <b> Technologies Used</b><br>
